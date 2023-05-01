@@ -11,6 +11,9 @@ export default {
       },
       backgroundImage: {
         'hero-pattern': "url('/img/hero.jpg')",
+      },
+      width: {
+        '215': '13.438rem',
       }
     },
   },
