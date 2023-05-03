@@ -5,6 +5,7 @@
         "description" : "Brioche bun, with bacon, scrambled egg, melty cheese and mustard",
         "category" : "food",
         "img" : "/img/products/product1.png",
+        "alt" : "Produto 1",
         "price" : 8
     },
     {
@@ -13,6 +14,7 @@
         "description" : "Bircher muesli with strawberries and cacao nibs",
         "category" : "food",
         "img" : "/img/products/product2.png",
+        "alt" : "Produto 2",
         "price" : 6.5
     },
     {
@@ -21,6 +23,7 @@
         "description" : "Granola with jumbo oats and nuts served with Greek yoghurt and apricots",
         "category" : "food",
         "img" : "/img/products/product3.png",
+        "alt" : "Produto 3",
         "price" : 10.0
     },
     {
@@ -29,6 +32,7 @@
         "description" : "Cackleberry Farm poached eggs, Red Brick espresso hollandaise on toast",
         "category" : "food",
         "img" : "/img/products/product4.png",
+        "alt" : "Produto 4",
         "price" : 6.5
     },
     {
@@ -37,6 +41,7 @@
         "description" : "Gazpacho served with sourdough toast",
         "category" : "food",
         "img" : "/img/products/product5.png",
+        "alt" : "Produto 5",
         "price" : 6.5
     },
     {
@@ -45,6 +50,7 @@
         "description" : "Field mushrooms on toast with graceburn cheese and aioli",
         "category" : "food",
         "img" : "/img/products/product6.png",
+        "alt" : "Produto 6",
         "price" : 3.45
     },
     {
@@ -53,6 +59,7 @@
         "description" : "Heirloom tomatoes with lovage pesto and chives on toasted sourdough",
         "category" : "food",
         "img" : "/img/products/product7.png",
+        "alt" : "Produto 7",
         "price" : 3.45
     },
     {
@@ -61,6 +68,7 @@
         "description" : "Fruity rye toast served with Stichelton cheese and red plum",
         "category" : "food",
         "img" : "/img/products/product8.png",
+        "alt" : "Produto 8",
         "price" : 3.45
     },
     {
@@ -69,6 +77,7 @@
         "description" : "Cackleberry eggs - poached, fried or scrambled on sourdough toast",
         "category" : "food",
         "img" : "/img/products/product9.png",
+        "alt" : "Produto 9",
         "price" : 3.45
     },
     {
@@ -77,6 +86,7 @@
         "description" : "Sourdough toast with butter and blueberry and blackcurrant jam",
         "category" : "food",
         "img" : "/img/products/product10.png",
+        "alt" : "Produto 10",
         "price" : 3.45
     }
 ]
