@@ -17,12 +17,14 @@ const MenuSection = () => {
                         wText="w-[474px]"
                         />
                 </div>
-                <div className="container mx-auto mt-12">
+                <div className="container mx-auto mt-12 h-[528px]">
                     <ul className="flex items-center justify-center gap-10">
                         <li className="hover:underline"  onClick={handleClick} ><a href="">FOOD</a></li>
                         <li className="hover:underline" onClick={handleClick}><a href="">DRINKS</a></li>
                     </ul>
-                    <Products products={Data} />
+                    <div className="container mx-auto mt-12">
+                        <Products products={Data} />
+                    </div>
                 </div>
             </div>
         </section>
