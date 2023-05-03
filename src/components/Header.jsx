@@ -11,7 +11,7 @@ const Header = () => {
                     <div className="">
                         <h2 className="hover:underline underline-offset-4">CAFÉ DO DOIDO</h2>
                     </div>
-                    <ul className="flex justify-between gap-10 ">
+                    <ul className="flex justify-between gap-10">
                         <li className="hover:underline underline-offset-4"><a href="">HOME</a></li>
                         <li className="hover:underline underline-offset-4"><a href="">WHY US</a></li>
                         <li className="hover:underline underline-offset-4"><a href="">MENU</a></li>

@@ -3,7 +3,7 @@ import CardDescriptionR from "./utils/CardDescriptionR";
 
 const SectionDescription = () => {
     return(
-        <section className="">
+        <section>
             <div className="bg-section bg-center bg-no-repeat h-[600px]">
                 <div className="flex justify-between container mx-auto pt-36">
                     <div className="flex-col">

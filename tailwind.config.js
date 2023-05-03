@@ -12,6 +12,7 @@ export default {
       backgroundImage: {
         'hero-pattern': "url('/img/hero.jpg')",
         'section': "url('/img/section-description.jpg')",
+        'section-cta': "url('/img/section-cta.jpg')",
       },
       width: {
         '215': '13.438rem',
