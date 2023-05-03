@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "name" : "prufrock breakfast bun",
+        "description" : "Brioche bun, with bacon, scrambled egg, melty cheese and mustard",
+        "category" : "food",
+        "img" : "/img/products/product1.png",
+        "price" : 8
+    },
+    {
+        "id" : 2,
+        "name" : "bircher muesli (vegan)",
+        "description" : "Bircher muesli with strawberries and cacao nibs",
+        "category" : "food",
+        "img" : "/img/products/product2.png",
+        "price" : 6.5
+    },
+    {
+        "id" : 4,
+        "name" : "House Granola (Vegetarian, Glutten Free)",
+        "description" : "Granola with jumbo oats and nuts served with Greek yoghurt and apricots",
+        "category" : "food",
+        "img" : "/img/products/product3.png",
+        "price" : 10.0
+    },
+    {
+        "id" : 4,
+        "name" : "Prufrock benny",
+        "description" : "Cackleberry Farm poached eggs, Red Brick espresso hollandaise on toast",
+        "category" : "food",
+        "img" : "/img/products/product4.png",
+        "price" : 6.5
+    },
+    {
+        "id" : 5,
+        "name" : "Soup (Vegan on request)",
+        "description" : "Gazpacho served with sourdough toast",
+        "category" : "food",
+        "img" : "/img/products/product5.png",
+        "price" : 6.5
+    },
+    {
+        "id" : 6,
+        "name" : "Mushrooms (Vegan on request)",
+        "description" : "Field mushrooms on toast with graceburn cheese and aioli",
+        "category" : "food",
+        "img" : "/img/products/product6.png",
+        "price" : 3.45
+    },
+    {
+        "id" : 7,
+        "name" : "Tomatoes on toast",
+        "description" : "Heirloom tomatoes with lovage pesto and chives on toasted sourdough",
+        "category" : "food",
+        "img" : "/img/products/product7.png",
+        "price" : 3.45
+    },
+    {
+        "id" : 8,
+        "name" : "Fruit toast",
+        "description" : "Fruity rye toast served with Stichelton cheese and red plum",
+        "category" : "food",
+        "img" : "/img/products/product8.png",
+        "price" : 3.45
+    },
+    {
+        "id" : 9,
+        "name" : "Eggs on toast",
+        "description" : "Cackleberry eggs - poached, fried or scrambled on sourdough toast",
+        "category" : "food",
+        "img" : "/img/products/product9.png",
+        "price" : 3.45
+    },
+    {
+        "id" : 10,
+        "name" : "Toast (Vegan on request)",
+        "description" : "Sourdough toast with butter and blueberry and blackcurrant jam",
+        "category" : "food",
+        "img" : "/img/products/product10.png",
+        "price" : 3.45
+    }
+]

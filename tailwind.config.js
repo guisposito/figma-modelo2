@@ -16,7 +16,10 @@ export default {
       },
       width: {
         '215': '13.438rem',
-      }
+      },
+      colors: {
+        'bg-section': '#EEEEEE',
+      },
     },
   },
   plugins: [],
