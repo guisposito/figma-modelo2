@@ -11,17 +11,17 @@ const News = () => {
                     wText="w-[500px]"
                     hrColor="border-black"                
                 />
-                <div className="container mx-auto">
+                <div className="flex justify-center gap-8 container mx-auto mt-12">
                     {Data.map((blogpost) => (
-                        <div className="" key={blogpost.id}>
-                            <div className="" >
-                                <img src={blogpost.img} alt={blogpost.alt} />
+                        <div className="flex flex-col w-[352px] h-[504px] font-inter" key={blogpost.id}>
+                            <div className=" mb-5 h[288px] w-[352px]">
+                                <img src={blogpost.img} alt={blogpost.alt} width="352" height="288" />
                             </div>
                             <div className="">
-                                <h3>{blogpost.title}</h3>
+                                <h3 className="font-bold uppercase mb-1">{blogpost.title}</h3>
                                 <p>{blogpost.description}</p>
                             </div>
-                            <a href="">- Read More</a>
+                            <a className="flex start items-end" href="">- Read More</a>
                         </div>
                     ))}
                 </div>
