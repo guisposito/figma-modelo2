@@ -1,4 +1,5 @@
 import HeadingSection from "./utils/HeadingSection";
+import Data from "../data/blogposts.json";
 
 const News = () => {
     return(
@@ -10,8 +11,19 @@ const News = () => {
                     wText="w-[500px]"
                     hrColor="border-black"                
                 />
-                <div className="">
-                    
+                <div className="container mx-auto">
+                    {Data.map((blogpost) => (
+                        <div className="" key={blogpost.id}>
+                            <div className="" >
+                                <img src={blogpost.img} alt={blogpost.alt} />
+                            </div>
+                            <div className="">
+                                <h3>{blogpost.title}</h3>
+                                <p>{blogpost.description}</p>
+                            </div>
+                            <a href="">- Read More</a>
+                        </div>
+                    ))}
                 </div>
             </div>
         </section>
