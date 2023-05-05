@@ -6,6 +6,7 @@ import SectionLooking from './components/SectionLooking'
 import MenuSection from './components/MenuSection'
 import Testimonials from './components/Testimonials'
 import News from './components/News'
+import SectionLocations from './components/SectionLocations'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -16,5 +17,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <MenuSection />
     <Testimonials />
     <News />
+    <SectionLocations />
   </React.StrictMode>,
 )

@@ -13,7 +13,8 @@ export default {
         'hero-pattern': "url('/img/hero.jpg')",
         'section': "url('/img/section-description.jpg')",
         'section-cta': "url('/img/section-cta.jpg')",
-        'section-testimonials': "url('/img/section-testimonials.jpg')"
+        'section-testimonials': "url('/img/section-testimonials.jpg')",
+        'section-locations': "url('/img/section-locations.jpg')"
       },
       width: {
         '215': '13.438rem',

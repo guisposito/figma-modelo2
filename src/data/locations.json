@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Fleet Street Press",
+        "func" : "Mon - Sun: 10:00 - 00:00",
+        "end" : "3 Fleet Street, London EC4Y 1AU",
+        "img" : "/img/locations/location1.png",
+        "alt" : "Location 1"
+    },
+    {
+        "id" : 2,
+        "name" : "Chancery Press",
+        "func" : "Mon - Sun: 10:00 - 00:00",
+        "end" : "81 Chancery Lane, London WC2A 1DD",
+        "img" : "/img/locations/location2.png",
+        "alt" : "Location 2"
+    },
+    {
+        "id" : 3,
+        "name" : "SHOREDITCH",
+        "func" : "Mon - Sun: 10:00 - 00:00",
+        "end" : "Unit 15, Stone Trading Estate Milkwood Road, Herne Hill SE24 0JU",
+        "img" : "/img/locations/location3.png",
+        "alt" : "Location 3"
+    } 
+]
