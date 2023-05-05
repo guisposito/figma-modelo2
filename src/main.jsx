@@ -8,6 +8,7 @@ import Testimonials from './components/Testimonials'
 import News from './components/News'
 import SectionLocations from './components/SectionLocations'
 import Newsletter from './components/Newsletter'
+import Footer from './components/Footer'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -20,5 +21,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <News />
     <SectionLocations />
     <Newsletter />
+    <Footer />
   </React.StrictMode>,
 )
