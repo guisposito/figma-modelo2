@@ -5,7 +5,7 @@
 
 npm install
 
-# Instalar as dependencias do carousel
+# Instalar as dependencias do carousel, caso precise
 npm install react-slick
 npm install slick-carousel
 
