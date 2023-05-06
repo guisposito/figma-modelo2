@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
         <footer>
-            <div className="bg-black h-[120px] font-inter text-white">
+            <div className="flex bg-black h-[120px] font-inter text-white">
                 <div className="flex justify-between items-center container mx-auto">
                     <div className="">
                         <p>Copyright {anoAtual} All rights reserved</p>
