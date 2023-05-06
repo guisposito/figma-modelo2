@@ -12,7 +12,7 @@ const SectionLooking = () => {
             wText="w-[350px]"
           />
           <div className="flex justify-center mt-12">
-            <Button text="book a table" />
+            <Button text="book a table" url="#" />
           </div>
         </div>
       </div>

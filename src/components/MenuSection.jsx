@@ -19,7 +19,7 @@ const MenuSection = () => {
 
   return (
     <section>
-      <div className="h-[912px] bg-bg-section">
+      <div id="Menu" className="h-[912px] bg-bg-section">
         <div className="text-black">
           <HeadingSection
             title="Explore our menu"

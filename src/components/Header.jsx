@@ -16,7 +16,14 @@ const Header = () => {
                         <li className="hover:underline underline-offset-4"><a href="">WHY US</a></li>
                         <li className="hover:underline underline-offset-4"><a href="">MENU</a></li>
                         <li className="hover:underline underline-offset-4"><a href="">HAPPY CLIENTS</a></li>
-                        <li className="hover:underline underline-offset-4"><a href="">BLOGS</a></li>
+                        <li id="dropdown" className="hover:underline underline-offset-4 group relative transition-all duration-500:">
+                            <a href="">BLOGS</a>
+                                <ul className="group-hover:block overflow-auto absolute hidden h-[400px] pt-5">
+                                    <li className="hover:underline underline-offset-4 pb-1"><a href="">Coffee</a></li>
+                                    <li className="hover:underline underline-offset-4 pb-1"><a href="">Drinks</a></li>
+                                    <li className="hover:underline underline-offset-4"><a href="">Foods Recipes</a></li>
+                                </ul>
+                            </li>
                         <li className="hover:underline underline-offset-4"><a href="">OUR LOCATIONS</a></li>
                         <li className="hover:underline underline-offset-4"><a href="">NEWSLETTER</a></li>
                     </ul>
@@ -30,7 +37,7 @@ const Header = () => {
                         <p className="text-center w-8/12 text-3xl">{subtitle}</p>
                     </div>
                     <div className="mt-12 flex justify-center">
-                        <Button text="view our menu" />
+                        <Button text="view our menu" url="#Menu" />
                     </div>
                 </div>
             </div>
