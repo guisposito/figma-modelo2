@@ -5,9 +5,20 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Figma modelo 2</title>
+    <meta name="description" content="Site criado com base no figma apresentado">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="./index.html">
+    <script>
+      let images = document.querySelectorAll('img');
+        images.forEach(img => {
+        img.loading="lazy";
+        console.log(img)
+      });
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    
   </body>
 </html>
